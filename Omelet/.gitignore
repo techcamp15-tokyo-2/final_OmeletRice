@@ -1,0 +1,11 @@
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcworkspace/contents.xcworkspacedata
+UserInterfaceState.xcuserstate
+.DS_Store
+Gentlemen.xcodeproj/project.pbxproj
+Gentlemen/proj.android/bin
+Gentlemen/proj.android/obj
+Gentlemen/proj.android/build_native.sh
+Gentlemen/proj.android/assets/
+Gentlemen/proj.android/gen/
